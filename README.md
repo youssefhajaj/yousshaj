@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm youssef hajaj</h1>
 <h3 align="center">a Computer Engineer graduated from UniversiaPolis d'Agadir, specializing in Genie Informatique. I'm passionate about coding and love to explore various programming languages and technologies</h3>
 
-<img align="right" alt="coding gif" width="400" src="https://i.pinimg.com/originals/4f/05/95/4f0595b0e1421428a053ff7aea868424.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousshaj&label=Profile%20views&color=0e75b6&style=flat" alt="yousshaj" /> </p>
 
