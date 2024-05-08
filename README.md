@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*L_QoAG863l8QvqxpNyBiqw.gif)
 
 <h1 align="center">Hi 👋, I'm youssef hajaj</h1>
-<h3 align="center">a Computer Engineer graduated from Universia Polis d'Agadir, specializing in Genie Informatique. I'm passionate about coding and love to explore various programming languages and technologies</h3>
+<h3 align="center">a Computer Engineer graduated from UniversiaPolis d'Agadir, specializing in Genie Informatique. I'm passionate about coding and love to explore various programming languages and technologies</h3>
 
 <img align="right" alt="coding gif" width="400" src="https://i.pinimg.com/originals/4f/05/95/4f0595b0e1421428a053ff7aea868424.gif">
 
