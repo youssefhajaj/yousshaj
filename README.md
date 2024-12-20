@@ -1,7 +1,7 @@
 
 ![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*L_QoAG863l8QvqxpNyBiqw.gif)
 
-<h1 align="center">Hi 👋, I'm youssef hajaj</h1>
+<h1 align="center">Hi 👋, I'm youssef hajaj</h1> 
 <h3 align="center">a Computer Engineer graduated from UniversiaPolis d'Agadir, specializing in Genie Informatique. I'm passionate about coding and love to explore various programming languages and technologies</h3>
 
 
